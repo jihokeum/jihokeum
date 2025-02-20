@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Jiho!
 
 I'm currently a bachelor student at EPFL learning chemistry and chemical engineering. 
 
