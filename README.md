@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently a bachelor student at EPFL learning chemistry and chemical engineering. 
+
 <!--
 **jihokeum/jihokeum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
